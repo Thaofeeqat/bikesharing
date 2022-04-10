@@ -27,3 +27,18 @@ The analysis shows the different between the Male and Female trips by weekdays p
 
  * This analysis shows the trip by gender and weekdays
 ![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%205.PNG)
+
+* NYC Dasboard, it displays the worksheet that created to show the follow:
+   * The total number of ride for 2,334,224
+   * Gender breakdown as follows: Male(1,530,272), Female(588,431) and Unknown(225,521).
+   * Average Trip based on birth year; The highest year as 1891.
+   * The subscribers are 1,900,359 and the customers are 443,865.
+   * The starting location and the ending location fornthe trips.
+![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%206.PNG)
+
+# Summary:
+ On the high level of summary for this analysis above it safe to say majority of the rides are Male and they ride mostly in the moring and in the evening.
+ in addition 
+  * The bussiness have more subscribers  which shows majority of the users subscibed.
+  * The differnece in the ride trip for male and female have little gap since the trips are all short.
+  * The bussiness have more subscribers 
