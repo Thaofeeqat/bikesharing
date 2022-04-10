@@ -6,5 +6,5 @@ The main purpose of this analysis is to convince investors that a bike-sharing p
 
 # RESULTS
   Below are the results from the bike sharing analysis:
- The analysis was carried out using tableaus public, here is the link to view it up. ![link](https://public.tableau.com/app/profile/thaofeeqat/viz/BikesharingData_16495545911110/NYCCITIBIKESTORY?publish=yes)
+ The analysis was carried out using tableaus public, here is the link to view it up. [link here](https://public.tableau.com/app/profile/thaofeeqat/viz/BikesharingData_16495545911110/NYCCITIBIKESTORY?publish=yes)
 
