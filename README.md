@@ -21,6 +21,9 @@ The analysis explains the checkout time for users based on gender,in which the m
 The analysis shows that there are more rides in the morning around 8am to 9am and in the evening around 5pm to 7pm.
 ![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%203.PNG)
 
-* Create The Trip By Gender (Weekdays Per Hours)
+ * Create The Trip By Gender (Weekdays Per Hours)
 The analysis shows the different between the Male and Female trips by weekdays per hours.
 ![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%204.PNG)
+
+ * This analysis shows the trip by gender and weekdays
+![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%205.PNG)
