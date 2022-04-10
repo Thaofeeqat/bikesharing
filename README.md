@@ -17,3 +17,6 @@ The analysis helps us to understand the time duration for checkout time amd it s
 The analysis explains the checkout time for users based on gender,in which the male gender have higher checkout time more than female and the unknown genders.
 ![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%202.PNG)
 
+ * Create The Trip By Weedays For Each Hours
+The analysis shows that there are more rides in the morning around 8am to 9am and in the evening around 5pm to 7pm.
+![Image Here](https://github.com/Thaofeeqat/bikesharing/blob/main/OUTCOME/STORY%203.PNG)
